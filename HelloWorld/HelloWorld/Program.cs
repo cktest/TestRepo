@@ -10,7 +10,6 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             // print one line
-			// print two lines
             Console.WriteLine("hello, world");
             Console.WriteLine("it is done.");
             Console.WriteLine("main trunk");
