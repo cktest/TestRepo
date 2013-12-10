@@ -11,7 +11,7 @@ namespace HelloWorld
         {
             // print one line
             Console.WriteLine("hello, world");
-            Console.WriteLine("it is done.");
+            Console.WriteLine("it is done--from VM.");
             Console.WriteLine("main trunk");
             
         }
