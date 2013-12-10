@@ -13,7 +13,7 @@ namespace HelloWorld
             Console.WriteLine("hello, world, conflict from u12.");
             Console.WriteLine("it is done--from VM.");
             Console.WriteLine("main trunk");
-            Console.WriteLine("end");
+            Console.WriteLine("end from U1");
         }
     }
 }
