@@ -10,10 +10,10 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             // print one line
-            Console.WriteLine("hello, world, conflict from U2");
+            Console.WriteLine("hello, world, conflict from u12.");
             Console.WriteLine("it is done--from VM.");
             Console.WriteLine("main trunk");
-            Console.WriteLine("end from U2");
+            Console.WriteLine("end from U12");
         }
     }
 }
